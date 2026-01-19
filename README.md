@@ -1,4 +1,4 @@
-# H&M Two-Tower Recommendation System
+# Two-Tower Recommendation System
 
 A PyTorch implementation of a Two-Tower neural network model for personalized clothing recommendations.
 
